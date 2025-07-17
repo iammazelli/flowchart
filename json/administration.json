@@ -1,0 +1,7 @@
+{
+    "id" : "administration",
+    "name" : "ADMINISTRATION",
+    "type" : "section",
+    "desc" : "Create users, groups and manage permissions across the platform.",
+    "children_id" : ["groups.json", "users.json", "calendar.json"]
+}
