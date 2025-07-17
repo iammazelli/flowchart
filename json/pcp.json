@@ -1,0 +1,7 @@
+{
+    "id" : "pcp",
+    "name" : "PCP",
+    "type" : "section",
+    "desc" : "Manage PCP checklists",
+    "children_id" : ["pcp_definition.json", "variables.json", "magnitudes_and_unitis.json", "specification_atributes.json"]
+}

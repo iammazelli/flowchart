@@ -1,0 +1,7 @@
+{
+    "id" : "groups",
+    "name" : "Groups",
+    "type" : "section",
+    "desc" : "Manage the groups of the checklists",
+    "children_id" : ["add_group.json", "edit-group.json"]
+}

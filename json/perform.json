@@ -1,0 +1,7 @@
+{
+    "id" : "perform_checklist",
+    "name" : "Perform",
+    "type" : "button",
+    "desc" : "Send teh checklist to be completed..",
+    "children_id" : []
+}

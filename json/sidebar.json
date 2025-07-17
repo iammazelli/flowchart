@@ -1,0 +1,7 @@
+{
+    "id" : "sidebar",
+    "name" : "Sidebar",
+    "type" : "section",
+    "desc" : "Side bar of the platform.",
+    "children_id" : ["administration.json", "pcp.json", "checklist.json", "reports.json"]
+}

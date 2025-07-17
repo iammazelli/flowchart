@@ -1,0 +1,7 @@
+{
+    "id" : "calendar",
+    "name" : "Calendar",
+    "type" : "section",
+    "desc" : "Manage the checklists schedule.",
+    "children_id" : ["add_calendar.json", "delete_multiple_calendars.json"]
+}

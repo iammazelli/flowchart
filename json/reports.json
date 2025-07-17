@@ -1,0 +1,7 @@
+{
+    "id" : "reports",
+    "name" : "REPORTS",
+    "type" : "section",
+    "desc" : "Get an overview about the status of PCP and checklists over Tenaris",
+    "children_id" : ["global_reports.json"]
+}

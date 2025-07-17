@@ -1,0 +1,7 @@
+{
+    "id" : "checklist",
+    "name" : "CHECK LIST",
+    "type" : "section",
+    "desc" : "Create, perform and schedule checklists",
+    "children_id" : ["perform_checklist.json", "schedule_checklist.json", "edit_checklist", "delete_checklist"]
+}

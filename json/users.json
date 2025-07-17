@@ -1,0 +1,7 @@
+{
+    "id" : "users",
+    "name" : "Users",
+    "type" : "section",
+    "desc" : "Manage the users and their permissions across the site",
+    "children_id" : ["add_user.json", "Edit profile.json"]
+}
